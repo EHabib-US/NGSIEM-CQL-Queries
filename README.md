@@ -1,5 +1,5 @@
 # NGSIEM-CQL-Queries
-CQL queries to aid in analyzing log data in Falcon LogScale
+CQL queries to aid in analyzing log data in Falcon LogScale. Nothing serious, just some queries that I've found useful and would like to share with other professionals.
 
 ### USB Device Allowlisting 
 This query shows USB activity related to allowlisted devices or policies in Falcon LogScale.  
